@@ -1,11 +1,10 @@
 
 
-# Welcome to the iAM.AMR GitHub Organization
+## Welcome to the iAM.AMR GitHub Organization
 
-## For the Public
+*You are not signed-in, or are not currently a member of the iAM.AMR organization.*
 
-Please see our public resources.
+Are you a new collaborator? Complete the [onboarding survey](https://goto.iam.amr.pub/onboarding) to request access to iAM.AMR project materials.
 
-## For new Collaborators
 
-Please complete the [onboarding survey](https://github.com/iAM-AMR/team) to request access to the iAM.AMR project organization, and additional resources such as Slack.
+#### Access Public Repos ⬇️
